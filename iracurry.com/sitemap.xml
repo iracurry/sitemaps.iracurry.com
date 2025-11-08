@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.iracurry.com/</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Key Sections -->
+  <url>
+    <loc>https://www.iracurry.com/home</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/bio</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/media</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/gallery</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/news</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/fans</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/booking</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/terms</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/privacy-policy</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/copyright</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Other Pages -->
+  <url>
+    <loc>https://www.iracurry.com/origin</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/ira-curry-professional-biography</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/official-profiles</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/iracurryholdings</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.iracurry.com/official-encyclopedia-of-ira-curry</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
