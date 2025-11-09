@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Gallery Home -->
+  <url>
+    <loc>https://gallery.iracurry.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Press Section -->
+  <url><loc>https://gallery.iracurry.com/press</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gallery.iracurry.com/press/ira-curry-king-of-business-portrait</loc></url>
+  <url><loc>https://gallery.iracurry.com/press/ira-curry-business-royalty-photo</loc></url>
+  <url><loc>https://gallery.iracurry.com/press/ira-curry-the-icon-stance-press-photo</loc></url>
+  <url><loc>https://gallery.iracurry.com/press/ira-curry-crimson-prestige-portrait</loc></url>
+  <url><loc>https://gallery.iracurry.com/press/ira-curry-silent-command-portrait</loc></url>
+  <url><loc>https://gallery.iracurry.com/press/ira-curry-royal-vision-photo</loc></url>
+
+  <!-- Official Section -->
+  <url><loc>https://gallery.iracurry.com/official</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gallery.iracurry.com/official/ira-curry-the-silver-icon</loc></url>
+  <url><loc>https://gallery.iracurry.com/official/ira-curry-red-hat-royalty</loc></url>
+  <url><loc>https://gallery.iracurry.com/official/ira-curry-press-perfection</loc></url>
+  <url><loc>https://gallery.iracurry.com/official/ira-curry-signature-smile</loc></url>
+  <url><loc>https://gallery.iracurry.com/official/ira-curry-the-casual-king</loc></url>
+  <url><loc>https://gallery.iracurry.com/official/ira-curry-the-legendary-smile</loc></url>
+  <url><loc>https://gallery.iracurry.com/official/ira-curry-colors-of-greatness</loc></url>
+  <url><loc>https://gallery.iracurry.com/official/ira-curry-the-visionary-icon</loc></url>
+  <url><loc>https://gallery.iracurry.com/official/ira-curry-king-of-power</loc></url>
+  <url><loc>https://gallery.iracurry.com/official/ira-curry-empire-vision</loc></url>
+  <url><loc>https://gallery.iracurry.com/official/ira-curry-the-first-celebrity-coach</loc></url>
+  <url><loc>https://gallery.iracurry.com/official/ira-curry-the-business-star</loc></url>
+
+  <!-- Celebrity Section -->
+  <url><loc>https://gallery.iracurry.com/celebrity</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gallery.iracurry.com/celebrity/ira-curry-celebrity-head</loc></url>
+  <url><loc>https://gallery.iracurry.com/celebrity/ira-curry-celebrity-monarch</loc></url>
+  <url><loc>https://gallery.iracurry.com/celebrity/ira-curry-celebrity-king</loc></url>
+  <url><loc>https://gallery.iracurry.com/celebrity/ira-curry-celebrity-coach</loc></url>
+  <url><loc>https://gallery.iracurry.com/celebrity/ira-curry-celebrity-press</loc></url>
+  <url><loc>https://gallery.iracurry.com/celebrity/ira-curry-celebrity-ruler</loc></url>
+  <url><loc>https://gallery.iracurry.com/celebrity/ira-curry-celebrity-paparazzi</loc></url>
+  <url><loc>https://gallery.iracurry.com/celebrity/ira-curry-celebrity-icon</loc></url>
+  <url><loc>https://gallery.iracurry.com/celebrity/ira-curry-celebrity-legacy</loc></url>
+  <url><loc>https://gallery.iracurry.com/celebrity/ira-curry-celebrity-majesty</loc></url>
+
+  <!-- Business Section -->
+  <url><loc>https://gallery.iracurry.com/business</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gallery.iracurry.com/business/ira-curry-business-head-portrait</loc></url>
+  <url><loc>https://gallery.iracurry.com/business/ira-curry-business-monarch-photo</loc></url>
+  <url><loc>https://gallery.iracurry.com/business/ira-curry-business-king-portrait</loc></url>
+  <url><loc>https://gallery.iracurry.com/business/ira-curry-business-celebrity-coach-speaking-photo</loc></url>
+
+  <!-- Moments Section -->
+  <url><loc>https://gallery.iracurry.com/moments</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-leadership-launch-2020-promo</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-elevation-leadership-promo</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-prince-of-business-2019-houston</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-vision-ahead-2019-houston</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-ocean-reflections-galveston</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-the-challenge-hollywood-2020</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-christmas-vision-2018</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-rising-star-2019-houston</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-the-founder-business-celebrity</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-itribe-message</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-red-carpet-arrival-2019</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-red-carpet-smile-2019</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-early-coach-2018</loc></url>
+  <url><loc>https://gallery.iracurry.com/moments/ira-curry-most-loved-portrait</loc></url>
+
+  <!-- Origins Section -->
+  <url><loc>https://gallery.iracurry.com/origins</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gallery.iracurry.com/origins/ira-curry-the-atlanta-arrival</loc></url>
+  <url><loc>https://gallery.iracurry.com/origins/ira-curry-first-job-hunt</loc></url>
+  <url><loc>https://gallery.iracurry.com/origins/ira-curry-corporate-days</loc></url>
+  <url><loc>https://gallery.iracurry.com/origins/ira-curry-college-days</loc></url>
+  <url><loc>https://gallery.iracurry.com/origins/ira-curry-first-grade-beginnings</loc></url>
+  <url><loc>https://gallery.iracurry.com/origins/ira-curry-bahamas-cruise</loc></url>
+
+</urlset>
